@@ -2,7 +2,7 @@
 
 ## Description
 
-I created a flashcard application that allows teachers and students to create sets of flashcards to use as a study resource. 
+A flashcard application that allows teachers and students to create sets of flashcards to use as a study resource. 
 
 ## Features
 
